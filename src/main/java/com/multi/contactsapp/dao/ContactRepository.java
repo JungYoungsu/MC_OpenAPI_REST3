@@ -1,4 +1,4 @@
-package com.multicampus.contactsapp.dao;
+package com.multi.contactsapp.dao;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

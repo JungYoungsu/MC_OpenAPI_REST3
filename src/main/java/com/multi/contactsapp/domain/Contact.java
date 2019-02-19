@@ -1,4 +1,4 @@
-package com.multicampus.contactsapp.domain;
+package com.multi.contactsapp.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
